@@ -1,5 +1,2 @@
 @import "tailwindcss";
-
-:root {
-  --background: #ffffff;
-}
+@import "@repo/tailwind-config";
